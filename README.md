@@ -1,2 +1,4 @@
 # Ryan-s-Page
-This is a website that I would put my projects in
+I will put projects, including finance and software development, into this page. 
+
+Page Under Construction ......
